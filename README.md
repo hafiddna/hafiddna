@@ -5,7 +5,7 @@ An Indonesian <b>self-taughted</b> FullStack web developer.
 
 - 👨‍🎓 diploma's degree in computer science
 - 👨‍💻 I’m currently learning **Expo/React Native**.
-- ✨ Check out my <a href="https://hafiddna.vercel.app/" target="_blank">Portfolio</a>
+- ✨ Check out my <a target="_blank" href="https://hafiddna.vercel.app/" target="_blank">Portfolio</a>
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ambonxnobody&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 <br />
