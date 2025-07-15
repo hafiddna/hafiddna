@@ -57,13 +57,15 @@ An Indonesian <b>self-taughted</b> FullStack web developer.
 
 <br />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hafiddna&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hafiddna&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafiddna&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3>Stats:</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hafiddna&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="hafiddna" 
+    bg_color=#808080/></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hafiddna&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafiddna&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="hafiddna" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hafiddna&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafiddna&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="hafiddna" /></p>
