@@ -76,8 +76,8 @@ An Indonesian <b>self-taughted</b> FullStack web developer.
 
 
 <a href="https://github.com/hafiddna/Laravel-SchoolLibrary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hafiddna&repo=Laravel-SchoolLibrary&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hafiddna&repo=Laravel-SchoolLibrary&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" />
 </a>
 <a href="https://github.com/hafiddna/Laravel-SchoolAttendance">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hafiddna&repo=Laravel-SchoolAttendance&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hafiddna&repo=Laravel-SchoolAttendance&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" />
 </a>
