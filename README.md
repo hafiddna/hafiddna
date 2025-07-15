@@ -7,6 +7,14 @@ An Indonesian <b>self-taughted</b> FullStack web developer.
 - 👨‍💻 I’m currently learning **Expo/React Native**.
 - ✨ Check out my <a target="_blank" href="https://hafiddna.vercel.app/" target="_blank">Portfolio</a>
 
+📊 **this week i spent my time on:**
+```txt
+GoLang        ████████████░░░░░░░░░░░░░   50.00 %
+NextJs        █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+Angular       █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+Flutter       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+```
+
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ambonxnobody&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 <br />
 <p align="center">
